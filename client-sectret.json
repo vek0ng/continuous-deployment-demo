@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linked-pharma-203720",
+  "private_key_id": "2ecbd7f1a1cbad51b03672d2c126b7e2c82562be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCCJhssD6d2mY8n\nKUPV8YRO/+tx+gFunLWtSx9hBedBoKIqc9TxdMQDWz/wC8uAh3rv4VGgjefQPLD1\n5+aupQ620HMqc+iGI9vRj2QR94hE0qEUTnxIkNVdp3VKJPaIpqAxAkaxyMRXAsws\nJ61g7FiEFYTUHPlx7CIuCaRNAy+iLGDjYmb9eNPLn76nkiL0cyQ+Cu2sJRHYm54U\n8pgrJC+Ia+MMM1x65UJzSXI33F1mjucIkl2VjIbhf5a9fJKhxiSbVgCSmwStjYie\nIyyxLPaA+vxF+rQlKQ7MYZ32BFWjH15nLXF7bJbnMWibNOMvBqXN6Yjntw9IYzCk\ngmBag1BnAgMBAAECggEAAclb+iDcljoLxyrN61w2VgDDtwCY0jahYZetSl9LoeYt\n7cY4PgbLylNDmhdLzYzVqaHpXQPQ7Pc6F4hve6FcaTxms5JDTn9YQc266ZBf8DOx\n6aAwaJCss6ZEdT4ZPqKsseV0/cpw2eckmEgOHU1hQkYE5zVjplDqiUWeY4qd84Qo\nUKqZcTlaS7X+IdUpDyIfDolLSXWcBOsYca2MJgqc6maj2gKfnOFDOxYeLjQfStvj\nQPydWw0GBILQzXJHYfLlRlFqOplfnI+Wd/FL30YwSIU+6PFV/1AnKUIsQ0REWjz7\n4wPRFiv4qVlyqSqtlfbw0YAQq7u5/+BzFhGkYoc/EQKBgQC3Zx0e7do52nd4v+xB\nhaPyg0KzJhqzgaiJ6vqTj/yCcelH9MG7ybtwGpgIUpykcAQ3YIKTvBvk89i6kZX7\npR9rSDETpl7CZUHi1y2oRDe5wXTjJhS6qv7Se9o+v6xAIPKAJGKXraUIa6VycmEP\nEDfDcuHEYHXPDYTqVrb0owXPYwKBgQC1qpK26/BliHDe0Rr+HyIrPW7dA+C3y3M6\nhIvOuDdsbN6KzW2VHRb87m5nCu+JBmpXLCgfBJXemT9paHfWr1xukmUJ4X43nT0F\nawnulXmRg6sFd8S4DdzDXT0vVWPDuijDs8C5qYSwnMx6+D1YSkqE+m2yitoFQmnA\nfyoPqPd0LQKBgF7gUdlBNGY/VRS7PE39A34eVy/0I1X/Wh/W1j/l+bvFj+ewf1RV\nHMj2iPWtPul2JUg8ffBNHKUJXHHPhKZEmodWNkUzCMxJs5bUuALXH3jR0lT7yzdx\n5BchCRry7vnR0YFm0TYkFz7O6SzWbM1tF1vdn1uGhwtQtBTCPS069HN/AoGAF2jE\ngRfEIYFEciHl5YsjfwjqiUZfpa9syMSds2Sfl7QrtR0lmspl1O/wgAyzsyeFengx\nL1YK7eU3e6C/mIV+Vq08odpRxl7XpyQU4o6WXL7nwcueKM14fiA8qyXItkb9y8IU\n+peyhoOeAdaNKRxhn+MZUaF82KKnN+vrApuWT30CgYA5kwkh7M2iA7QNRsiCIVlq\nehB595zoV+jsu6L8ScE52HJ6Q4YziQrIEVLiv1SnFg7Mb8LodqNSklq3RuVitsKD\nr6u7ahbXaMizR6nRoKLMWlELFahGmEy8FWR9DJuDE2jKoZCGveRIstLhQSXsKzrh\n0GKTSA27cZ2Moi9VxM8B0A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "linked-pharma-test@linked-pharma-203720.iam.gserviceaccount.com",
+  "client_id": "116428397523963362479",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linked-pharma-test%40linked-pharma-203720.iam.gserviceaccount.com"
+}
